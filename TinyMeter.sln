@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TinyMeter", "TinyMeter\TinyMeter.vcproj", "{38C095E0-D660-48BA-AD8E-01E4AEA3147D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DiskSpacePlugin", "DiskSpacePlugin\DiskSpacePlugin.vcproj", "{0F4C426D-6339-4136-AD0E-5A98AEE71E16}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProcessCountPlugin", "ProcessCountPlugin\ProcessCountPlugin.vcproj", "{0F0B8E5B-EC3C-4802-A4B3-0D2854F769FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38C095E0-D660-48BA-AD8E-01E4AEA3147D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{38C095E0-D660-48BA-AD8E-01E4AEA3147D}.Debug|Win32.Build.0 = Debug|Win32
+		{38C095E0-D660-48BA-AD8E-01E4AEA3147D}.Release|Win32.ActiveCfg = Release|Win32
+		{38C095E0-D660-48BA-AD8E-01E4AEA3147D}.Release|Win32.Build.0 = Release|Win32
+		{0F4C426D-6339-4136-AD0E-5A98AEE71E16}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0F4C426D-6339-4136-AD0E-5A98AEE71E16}.Debug|Win32.Build.0 = Debug|Win32
+		{0F4C426D-6339-4136-AD0E-5A98AEE71E16}.Release|Win32.ActiveCfg = Release|Win32
+		{0F4C426D-6339-4136-AD0E-5A98AEE71E16}.Release|Win32.Build.0 = Release|Win32
+		{0F0B8E5B-EC3C-4802-A4B3-0D2854F769FD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0F0B8E5B-EC3C-4802-A4B3-0D2854F769FD}.Debug|Win32.Build.0 = Debug|Win32
+		{0F0B8E5B-EC3C-4802-A4B3-0D2854F769FD}.Release|Win32.ActiveCfg = Release|Win32
+		{0F0B8E5B-EC3C-4802-A4B3-0D2854F769FD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
